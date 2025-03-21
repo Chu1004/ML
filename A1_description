@@ -1,0 +1,7 @@
+A1 is an assignment to use apriori algorithm to find association rule of given itemsets. This program implements the FP-Growth (Frequent Pattern Growth) algorithm to mine frequent itemsets from a CSV file and generate association rules based on confidence and lift.
+Functionality
+1、Read transaction data from a CSV file
+2、Construct an FP-Tree (Frequent Pattern Tree)
+3、Mine frequent itemsets from the FP-Tree
+4、Generate association rules based on confidence and lift
+5、Output rules that meet the specified thresholds
